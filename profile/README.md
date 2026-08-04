@@ -22,3 +22,7 @@
 ## ‼️ 문제 정의
 
 > 부산 시민 공원 인터뷰, 구글 폼 기반 설문 조사, 부산·서울기반으로 활동하는 방문 훈련사, 반려동물 행동학 교수의 자문을 기반으로 함
+
+> 이 성과는 2026년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 결과물임(IITP-2026-AI·SW마에스트로과정)  
+This work was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP)
+grant funded by the Ministry of Science and ICT(MSIT) (IITP -2026 -AI·SW Maestro training course)
