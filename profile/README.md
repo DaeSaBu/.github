@@ -1,4 +1,5 @@
-# 🦴 행복한 반려생활을 위한 변려견 교육 가이드 앱, MeongCoach
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0727ba04-de19-4b38-9800-35d2331de107" /># 🦴 행복한 반려생활을 위한 변려견 교육 가이드 앱, MeongCoach
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3c462e00-a515-4c19-b0b2-a04a2f701691" />
 
 ## 📋 프로젝트 개요
 
